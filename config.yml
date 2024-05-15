@@ -1,2 +1,4 @@
+handler: leaves_handler
+
 custom_handlers:
 - handlers.leaves_handler.LeavesHandler
